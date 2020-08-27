@@ -59,6 +59,10 @@ I'm Dominik, 23 years old and a full-stack dev in Vienna!
     <td>NodeJS</td>
   </tr>
   <tr>
+    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></td>
+    <td>Electron</td>
+  </tr>
+  <tr>
     <td align="center"><img height="20" src="http://reactivex.io/assets/Rx_Icon.png"></td>
     <td>ReactiveX</td>
   </tr>
@@ -71,12 +75,12 @@ I'm Dominik, 23 years old and a full-stack dev in Vienna!
     <td>Docker</td>
   </tr>
   <tr>
-    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></td>
-    <td>WordPress</td>
-  </tr>
-  <tr>
     <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></td>
     <td>Laravel</td>
+  </tr>
+  <tr>
+    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></td>
+    <td>WordPress</td>
   </tr>
   <tr>
     <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></td>
