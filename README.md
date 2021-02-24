@@ -26,16 +26,12 @@ I'm Dominik, 23 years old and a full-stack dev in Vienna!
     <td>Ruby</td>
   </tr>
   <tr>
-    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></td>
-    <td>SQL (MySQL/MariaDB)</td>
-  </tr>
-  <tr>
-    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></td>
-    <td>Sass</td>
-  </tr>
-  <tr>
     <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></td>
     <td>GraphQL</td>
+  </tr>
+  <tr>
+    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></td>
+    <td>SQL (MySQL/MariaDB/MsSQL)</td>
   </tr>
  </table>
 
@@ -71,19 +67,19 @@ I'm Dominik, 23 years old and a full-stack dev in Vienna!
     <td>Vert.x</td>
   </tr>
   <tr>
-    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></td>
-    <td>Docker</td>
+    <td align="center"><img height="20" src="https://static-www.elastic.co/v3/assets/bltefdd0b53724fa2ce/blt36f2da8d650732a0/5d0823c3d8ff351753cbc99f/logo-elasticsearch-32-color.svg"></td>
+    <td>ElasticSearch</td>
   </tr>
   <tr>
     <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></td>
     <td>Laravel</td>
   </tr>
   <tr>
-    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></td>
-    <td>WordPress</td>
+    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></td>
+    <td>Docker</td>
   </tr>
   <tr>
-    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></td>
-    <td>Bash</td>
+    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></td>
+    <td>WordPress</td>
   </tr>
 </table>
