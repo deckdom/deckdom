@@ -1,6 +1,6 @@
 # Sup'? :metal: 
 
-I'm Dominik, 23 years old and a full-stack dev in Vienna!
+I'm Dominik, 24 years old and a full-stack dev in Vienna!
 
 :books: Trying to learn Rust, but no place to use it yet<br/>
 :speech_balloon: Contact me via Mail at dominik.decker97@gmail.com
