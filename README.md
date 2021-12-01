@@ -2,61 +2,71 @@
 
 I'm Dominik, 24 years old and a full-stack dev in Vienna!
 
-:books: Trying to learn Rust, but no place to use it yet<br/>
-:speech_balloon: Contact me via Mail at dominik.decker97@gmail.com
+:speech_balloon: Contact me via Mail at mail@deckdom.at
 
-
-## Languages:
+## Languages
 
 <table>
   <tr>
-    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></td>
+    <td align="center"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></td>
     <td>JavaScript & TypeScript</td>
   </tr>
   <tr>
-    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></td>
+    <td align="center"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></td>
     <td>PHP</td>
   </tr>
   <tr>
-    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></td>
+    <td align="center"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></td>
     <td>Java</td>
   </tr>
     <tr>
-    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></td>
+    <td align="center"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg"></td>
     <td>Ruby</td>
   </tr>
   <tr>
-    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png"></td>
+    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nim/nim.png"></td>
+    <td>Nim</td>
+  </tr>
+  <tr>
+    <td align="center"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg"></td>
     <td>GraphQL</td>
   </tr>
   <tr>
-    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></td>
+    <td align="center"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+    <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></td>
     <td>SQL (MySQL/MariaDB/MsSQL)</td>
   </tr>
  </table>
 
-## Frameworks & Technologies:
+## Frameworks & Technologies
 
 <table>
   <tr>
-    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></td>
+    <td align="center"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></td>
     <td>React</td>
   </tr>
   <tr>
-    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></td>
+    <td align="center"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"></td>
     <td>Vue</td>
   </tr>
   <tr>
-    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></td>
+    <td align="center"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"></td>
     <td>Angular</td>
   </tr>
   <tr>
-    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></td>
+    <td align="center"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"></td>
     <td>NodeJS</td>
   </tr>
   <tr>
-    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png"></td>
+    <td align="center"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"></td>
     <td>Electron</td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+      <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+    </td>
+    <td>CSS Pre-Processors: Tailwind, SCSS
   </tr>
   <tr>
     <td align="center"><img height="20" src="http://reactivex.io/assets/Rx_Icon.png"></td>
@@ -71,15 +81,19 @@ I'm Dominik, 24 years old and a full-stack dev in Vienna!
     <td>ElasticSearch</td>
   </tr>
   <tr>
-    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></td>
+    <td align="center"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg"></td>
     <td>Laravel</td>
   </tr>
   <tr>
-    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></td>
+    <td align="center"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain.svg"></td>
+    <td>Ruby on Rails</td>
+  </tr>
+  <tr>
+    <td align="center"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"></td>
     <td>Docker</td>
   </tr>
   <tr>
-    <td align="center"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></td>
+    <td align="center"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg"></td>
     <td>WordPress</td>
   </tr>
 </table>
