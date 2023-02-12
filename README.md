@@ -1,6 +1,6 @@
 # Sup'? :metal: 
 
-I'm Dominik, 24 years old and a full-stack dev in Vienna!
+I'm Dominik, 25 years old and a full-stack dev in Vienna!
 
 :speech_balloon: Contact me via Mail at mail@deckdom.at
 
@@ -63,10 +63,14 @@ I'm Dominik, 24 years old and a full-stack dev in Vienna!
   </tr>
   <tr>
     <td align="center">
-      <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
+      <img height="20" src="https://refactoringui.nyc3.cdn.digitaloceanspaces.com/tailwind-logo.svg">
       <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
     </td>
-    <td>CSS Pre-Processors: Tailwind, SCSS
+    <td>CSS Pre-Processors: Post-CSS, SCSS
+  </tr>
+  <tr>
+     <td align="center"><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg"></td>
+    <td>Tailwind</td>
   </tr>
   <tr>
     <td align="center"><img height="20" src="http://reactivex.io/assets/Rx_Icon.png"></td>
