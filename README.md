@@ -1,6 +1,6 @@
 # Sup'? :metal: 
 
-I'm Dominik, 25 years old and a full-stack dev in Vienna!
+I'm Dominik, 26 years old and a full-stack dev in Vienna!
 
 :speech_balloon: Contact me via Mail at mail@deckdom.at
 
